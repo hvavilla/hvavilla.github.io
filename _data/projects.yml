@@ -1,5 +1,5 @@
 - layout: top-middle
-  name: R2019b: Managing Scope, LifeTime and Ownership of Dynamic Enums owned by SLDD and CL(Command Line)
+  name: R2019b Managing Scope, LifeTime and Ownership of Dynamic Enums owned by SLDD and CL(Command Line)
   link: Industrial Project
   github: Not available for Open Source
   quote: >
@@ -8,7 +8,7 @@
     Impact of scope, LifeTime, and Ownership during Edit time, Compile-time, and code generation on models that use Data Objects of type Enumerated Data. This also involves Transfer of ownership from Dictionary to CL and few other combinations to ensure there are No Silent Wrong Answers.
     
 - layout: top-middle
-  name: R2019a GR : Name Conflict Resolution in Model Explorer(ME)
+  name: R2019a GR Name Conflict Resolution in Model Explorer(ME)
   link: Industrial Project
   github: Not available for Open Source
   quote: >
@@ -20,7 +20,7 @@
     Simulink.NumericType, Simulink.Parameter, Simulink.LookupTable, Simulink.Breakpoint, Simulink.Signal and Matlab Variable. This involves testing Models with and without BaseWorkspaceAccess. and Data Dictionaries with Multi-level Hierarchy.
     
 - layout: top-middle
-  name: R2019a GR :Fix it Work Flow to use new Reference for Rename Variable in Models
+  name: R2019a GR Fix it Work Flow to use new Reference for Rename Variable in Models
   link: Industrial Project
   github: Not available for Open Source
   quote: >
