@@ -7,9 +7,13 @@
    Develop Transponder Application for Airbus and Boeing
   description: | # this will include new lines to allow paragraphs
      Developed lower level, derived software requirements from higher level requirements
+    
      Develop Transponder applications using C++, Wind River Work Bench and third-party components using DO178C Standards
+    
      Develop ARINC 653 Safety Critical partitions using VxWorks RTOS, Board support packages and Wind River Helix Virtualization platform
+    
      Develop code for software requirement using MISRA C/C++ coding standard compliance
+    
      Perform requirement traceability analysis (Top down, Bottom up) for software requirements
 
 - layout: left
@@ -21,9 +25,13 @@
    Quality Engineer for Simulink Data Management Team
   description: | # this will include new lines to allow paragraphs
      Participate in processes related to Requirement analysis, Function Design, Architectural design to ensure Quality Standards are met for the new features being developed using Agile Methodology
+    
      Provide expert Feedback on the new features developed for Simulink Data Management in aspects of functional behavior and suggest necessary improvements for ease of workflow for customers
+    
      Develop integration, unit tests to qualify new features for Simulink Data Management using MATLAB, C, C++, Java
+    
      Maintaining Quality standards of existing Simulink data management infrastructure software by fixing bugs and enhancement tasks
+    
      Perform Non-Function testing such as Memory, Performance, Availability, Security to ensure no regression
     
 - layout: left
@@ -35,8 +43,11 @@
    Testing and Bug Fixing of Radio Tuning Software application
   description: | # this will include new lines to allow paragraphs
      Develop WIN32 API based C++ Application for Windows CE using C++ 14, QT, CAN, TMAC and GNSS
+    
      Participate in Code reviews, Hardening, bug fixing of WIN32 based C++ application using Agile methodology
+    
      Develop unit test using Google Tests framework in C++ to qualify the software application
+    
      Work Closely with customers regarding the field issues and fix complex software bugs using static code analysis
 
 - layout: left
@@ -48,11 +59,17 @@
    Develop new features and Bug Fixing for Radio Tuning Software application (RTSA)
   description: | # this will include new lines to allow paragraphs
      Developed lower level, derived software requirements from higher level requirements
+    
      Developed code for software requirement in C, C++ and MATLAB Simulink as per DO-178B/C Standards
+    
      Model-based development (MBD) and testing using Simulink and State flow toolchain
+    
      Strong experience in Code instrumentation and Fixing the code as per the Code coverage reports
+    
      Provided technical assistance for verification effort of an entire module
+    
      Valuable experience on requirement traceability analysis (Top down, Bottom up) for software requirements
+    
      Good understanding of Structural coverage analysis, Data coupling, and Control coupling activities
     
 - layout: left
@@ -64,7 +81,11 @@
    Testing and Bug Fixing for Radio Tuning Software application (RTSA)
   description: | # this will include new lines to allow paragraphs
      Fixing the code as per the Change request (CR) to match implementation as per the software requirements.
+    
      Assisted with developing Python-based HSIT test cases and test procedures from software requirements for different design assurance level (DAL) projects
+    
      Developed and Executed test cases based on Structural Coverage Analysis for code coverage
+    
      Analyzed software and system requirements per DO-178B/DO-178C guidelines for avionics
+    
      Created Change request (CR) with detailed descriptions in case of non-compliance with the requirements
