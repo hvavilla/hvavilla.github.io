@@ -1,30 +1,44 @@
 # Site
-repository: sproogen/resume-theme
+repository: hvavilla/
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Harish Vavilla
+title: Software Engineer
+email: harish.vavilla@gmail.com
+website: hvavilla.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: Not an Active User
+github_username:  hvavilla
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: Not an Active User
+linkedin_username: harish.vavilla@gmail.com
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: Not an Active User
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Harish Vavilla and I'm a Software Engineer at Collins Aerospace.I have worked at a number of companies gaining teamwork and leadership skills. My Strength is in embedded software development in C, C++, Python and using Model Based Software Development
+  
+   Outstanding Individual contributor and an exceptional team member
+   Proven ability to develop breakthrough solutions in critical program requirements
+   Strong analytical and problem-solving skills with self-direction and motivation
+   Good exposure to the entire software development life cycle related to safety-critical embedded applications
+   Strong familiarity with UNIX, LINUX, QNX and Windows CE based development and testing environment
+   Sound understanding of Object-Oriented Programming, Design Patterns (Gang of Four), Data Structure and Algorithms, STL Containers, Generic Programming, Concurrent Programming
+   Sound understanding of Model-Based Software development using Simulink, State flow in terms of Simulation and Code Generation
+  
+  PROGRAMMING LANGUAGES: C, C++, MATLAB, TCL, Python, UML, VERILOG, VHDL
+  DESIGN & DEVELOPMENT TOOLS: IBM Clear quest, Eclipse IDE, Subversion, Vector Cast, DOORS, Understanding C, Visual Studio Professional Edition, Tab Studio, QT, VAPS XT, Linux, LynxOS, RTOS, QNX, Tortoise SVN,
+  Perl, Vista (Test Environment), GIT, JIRA, JAMA, MATLAB Simulink 2019a, Beyond Compare, Notepad ++, Crucible, HARVEST, GCC compiler, Code composer studio, WIN32 API, Windows CE, Cygwin, Jenkins, GDB debugger, CANape, CANoe, JTAG debugger, VxWorks, PolySpace, WindRiver Helix Virtualization Platform.
+  
+  COMMUNICATION PROTOCOLS: CAN, J1939, SPI, UART, I2C, ARINC-661, ARINC-429, ARINC-664, AFDX, ARINC-664, ARINC-653, ARINC-604, Ethernet protocols, TCP/IP, TMAC, WIN32 API, and other embedded protocols
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
