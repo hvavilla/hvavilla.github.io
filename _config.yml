@@ -64,9 +64,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Book Reading
-   - Writing Articles
-   - Cooking
+   - Reading Books
+   - Writing Self-Development Articles
+   - Cooking Authentic Vegetarian recipes
+   - Travelling around the world
 
 # Footer
 footer_show_references: true

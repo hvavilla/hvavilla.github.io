@@ -3,7 +3,7 @@
   link: Industrial Project
   github: Not available for Open Source
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    RTSA Primarily is a Display System Application to tune the Radios on the Aircraft. It uses AFDX communication network  and interacts with LRU’s that use ARINC429 protocol.
   description: | # this will include new lines to allow paragraphs
     
     Aircraft Program :  M145, G280,EEJ,MRJ,LJ,PDKAH,DOLPHIN
@@ -15,8 +15,6 @@
     Languages 	     :  Simulink, C, C++, Python, perl.
     
     Interfaces		 :  ETHERNET, A661 protocol, A664 protocol, A429 protocol
-
-    RTSA Primarily is a Display System Application to tune the Radios on the Aircraft. It uses AFDX communication network  and interacts with LRU’s that use ARINC429 protocol.
 
     RTSA  is a display  system application  with UDP input/output Connections. It communicates to the Graphics server using AFDX network and also receives ARINC661 Events and Notifications from AGS regarding the Tuning information .It transmits ARINC 661 Run time Modifiable Parameters(RMP) to AGS(ARINC Graphics server) and Update the User Interface.It  also transmits tuning information related to communication , Navigation and Surveillance Radios as ARINC664 data via AFDX network connection.It also interacts with Input/Output concentrator (IOCs) so that it can transmit and receive information to and from real radios and primary tuners that use ARINC 429 protocol.
     
