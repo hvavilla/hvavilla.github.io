@@ -26,6 +26,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Harish Vavilla and I'm a Software Engineer at Collins Aerospace.I have worked at a number of companies gaining teamwork and leadership skills. My Strength is in embedded software development in C, C++, Python and using Model Based Software Development
   
+  <mark>SKILLS & ABILITIES:</mark>
+  
    Outstanding Individual contributor and an exceptional team member
   
    Proven ability to develop breakthrough solutions in critical program requirements
