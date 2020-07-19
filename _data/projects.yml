@@ -1,20 +1,48 @@
 - layout: top-middle
+  name: R2019b: Managing Scope, LifeTime and Ownership of Dynamic Enums owned by SLDD and CL(Command Line)
+  link: Industrial Project
+  github: Not available for Open Source
+  quote: >
+    Managing Scope, LifeTime and Ownership of Simulink Dynamic Enums owned by SLDD and CL(Command Line)
+  description: | # this will include new lines to allow paragraphs
+    Impact of scope, LifeTime, and Ownership during Edit time, Compile-time, and code generation on models that use Data Objects of type Enumerated Data. This also involves Transfer of ownership from Dictionary to CL and few other combinations to ensure there are No Silent Wrong Answers.
+    
+- layout: top-middle
+  name: R2019a GR : Name Conflict Resolution in Model Explorer(ME)
+  link: Industrial Project
+  github: Not available for Open Source
+  quote: >
+    Name Conflict Resolution in Model Explorer(ME) for Simulink data objects
+  description: | # this will include new lines to allow paragraphs
+    Name Conflict resolution of Same Name, Different Name, Combinations in Base Workspace, Model Workspace, and Simulink Data Dictionary. This applies to both Copy-Paste and Cut-Paste in Model Explorer and Model Data Editor.
+
+    This also includes Simulink Data Objects such as Simulink.AliasType, Simulink.Bus,
+    Simulink.NumericType, Simulink.Parameter, Simulink.LookupTable, Simulink.Breakpoint, Simulink.Signal and Matlab Variable. This involves testing Models with and without BaseWorkspaceAccess. and Data Dictionaries with Multi-level Hierarchy.
+    
+- layout: top-middle
+  name: R2019a GR :Fix it Work Flow to use new Reference for Rename Variable in Models
+  link: Industrial Project
+  github: Not available for Open Source
+  quote: >
+    Testing of Rename Reference feature for Models that use Data Objects in Edit time and Canvas View.
+  description: | # this will include new lines to allow paragraphs
+    The impact is analyzed during the creation of models, During Compilation (Ctrl+D or Update Diagram). Fix This is applicable to variables in Base WorkSpace, Model Workspace, and Data Dictionary and also applies to Model Hierarchy.
+  
+- layout: top-middle
   name: Radio Tuning System Application (RTSA)
   link: Industrial Project
   github: Not available for Open Source
   quote: >
-    RTSA Primarily is a Display System Application to tune the Radios on the Aircraft. It uses AFDX communication network  and interacts with LRU’s that use ARINC429 protocol.
+    RTSA is a Display System Application to tune the Radios on the Aircraft. It uses AFDX communication network  and interacts with LRU’s that use ARINC429 protocol.
   description: | # this will include new lines to allow paragraphs
     
-    Aircraft Program :  M145, G280,EEJ,MRJ,LJ,PDKAH,DOLPHIN
+    <mark>Aircraft Program :</mark>  M145, G280,EEJ,MRJ,LJ,PDKAH,DOLPHIN
     
-    Architecture     :  Proline 21, Proline Fusion, EDS.
+    <mark>Architecture     :</mark>  Proline 21, Proline Fusion, EDS.
     
-    Role             :  Development and Testing of System application.
+    <mark>Languages 	     :</mark>  Simulink, C, C++, Python, perl.
     
-    Languages 	     :  Simulink, C, C++, Python, perl.
-    
-    Interfaces		 :  ETHERNET, A661 protocol, A664 protocol, A429 protocol
+    <mark>Interfaces		 :</mark>  ETHERNET, A661 protocol, A664 protocol, A429 protocol
 
     RTSA  is a display  system application  with UDP input/output Connections. It communicates to the Graphics server using AFDX network and also receives ARINC661 Events and Notifications from AGS regarding the Tuning information .It transmits ARINC 661 Run time Modifiable Parameters(RMP) to AGS(ARINC Graphics server) and Update the User Interface.It  also transmits tuning information related to communication , Navigation and Surveillance Radios as ARINC664 data via AFDX network connection.It also interacts with Input/Output concentrator (IOCs) so that it can transmit and receive information to and from real radios and primary tuners that use ARINC 429 protocol.
     
