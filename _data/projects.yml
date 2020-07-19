@@ -15,7 +15,7 @@
     Name Conflict Resolution in Model Explorer(ME) for Simulink data objects
   description: | # this will include new lines to allow paragraphs
     Name Conflict resolution of Same Name, Different Name, Combinations in Base Workspace, Model Workspace, and Simulink Data Dictionary. This applies to both Copy-Paste and Cut-Paste in Model Explorer and Model Data Editor.
-
+    
     This also includes Simulink Data Objects such as Simulink.AliasType, Simulink.Bus,
     Simulink.NumericType, Simulink.Parameter, Simulink.LookupTable, Simulink.Breakpoint, Simulink.Signal and Matlab Variable. This involves testing Models with and without BaseWorkspaceAccess. and Data Dictionaries with Multi-level Hierarchy.
     
@@ -43,13 +43,13 @@
     <mark>Languages 	     :</mark>  Simulink, C, C++, Python, perl.
     
     <mark>Interfaces		 :</mark>  ETHERNET, A661 protocol, A664 protocol, A429 protocol
-
+    
     RTSA  is a display  system application  with UDP input/output Connections. It communicates to the Graphics server using AFDX network and also receives ARINC661 Events and Notifications from AGS regarding the Tuning information .It transmits ARINC 661 Run time Modifiable Parameters(RMP) to AGS(ARINC Graphics server) and Update the User Interface.It  also transmits tuning information related to communication , Navigation and Surveillance Radios as ARINC664 data via AFDX network connection.It also interacts with Input/Output concentrator (IOCs) so that it can transmit and receive information to and from real radios and primary tuners that use ARINC 429 protocol.
     
     The Radios that are controlled by RTSA includes:
     ADF, NAV, HF, VHF, ATC, SELCAL.
-
+    
     Environment : C, MATLAB, Eclipse, Subversion, Vector Cast, DOORS, Understanding C, Visual C++ Express Edition, VAPS XT.
-
+    
     Tools : Python,Perl, Vista (Test Environment), Eclipse, Subversion, MATLAB Simulink
 
