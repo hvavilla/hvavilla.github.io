@@ -42,11 +42,12 @@ about_content: | # this will include new lines to allow paragraphs
   
    Sound understanding of Model-Based Software development using Simulink, State flow in terms of Simulation and Code Generation
   
-  PROGRAMMING LANGUAGES: C, C++, MATLAB, TCL, Python, UML, VERILOG, VHDL
-  DESIGN & DEVELOPMENT TOOLS: IBM Clear quest, Eclipse IDE, Subversion, Vector Cast, DOORS, Understanding C, Visual Studio Professional Edition, Tab Studio, QT, VAPS XT, Linux, LynxOS, RTOS, QNX, Tortoise SVN,
+  <mark>PROGRAMMING LANGUAGES:</mark> C, C++, MATLAB, TCL, Python, UML, VERILOG, VHDL
+  
+  <mark>DESIGN & DEVELOPMENT TOOLS:</mark> IBM Clear quest, Eclipse IDE, Subversion, Vector Cast, DOORS, Understanding C, Visual Studio Professional Edition, Tab Studio, QT, VAPS XT, Linux, LynxOS, RTOS, QNX, Tortoise SVN,
   Perl, Vista (Test Environment), GIT, JIRA, JAMA, MATLAB Simulink 2019a, Beyond Compare, Notepad ++, Crucible, HARVEST, GCC compiler, Code composer studio, WIN32 API, Windows CE, Cygwin, Jenkins, GDB debugger, CANape, CANoe, JTAG debugger, VxWorks, PolySpace, WindRiver Helix Virtualization Platform.
   
-  COMMUNICATION PROTOCOLS: CAN, J1939, SPI, UART, I2C, ARINC-661, ARINC-429, ARINC-664, AFDX, ARINC-664, ARINC-653, ARINC-604, Ethernet protocols, TCP/IP, TMAC, WIN32 API, and other embedded protocols
+  <mark>COMMUNICATION PROTOCOLS:</mark> CAN, J1939, SPI, UART, I2C, ARINC-661, ARINC-429, ARINC-664, AFDX, ARINC-664, ARINC-653, ARINC-604, Ethernet protocols, TCP/IP, TMAC, WIN32 API, and other embedded protocols
 
   I am most skilled in: <mark>C</mark>,<mark>C++</mark>,<mark>Python</mark>, <mark>Data Structures</mark> and <mark>Algorithms</mark>
 
